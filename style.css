@@ -1,0 +1,38 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: slategrey;
+}
+
+.container {
+  display: flex;
+  line-height: 5rem;
+  padding: 2rem;
+  width: 50%;
+  align-items: center;
+  flex-direction: column;
+  background-color: turquoise;
+  border-radius: 5%;
+}
+label {
+  width: 50%;
+  text-align: center;
+  border: seagreen 1px solid;
+  padding: 0.5rem;
+  font-weight: bold;
+  background-color: slategrey;
+  color: aqua;
+  border-radius: 5%;
+}
+button {
+  width: 30%;
+  height: 2.5rem;
+  margin-top: 2rem;
+  background-color: tomato;
+  color: aqua;
+  font-weight: bold;
+  border-radius: 5%;
+}
