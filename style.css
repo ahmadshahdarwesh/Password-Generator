@@ -26,6 +26,7 @@ label {
   background-color: slategrey;
   color: aqua;
   border-radius: 5%;
+  letter-spacing: 0.5rem;
 }
 button {
   width: 30%;
