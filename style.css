@@ -14,7 +14,7 @@ body {
   width: 50%;
   align-items: center;
   flex-direction: column;
-  background-color: turquoise;
+  background-color: whitesmoke;
   border-radius: 5%;
 }
 label {
@@ -23,17 +23,18 @@ label {
   border: seagreen 1px solid;
   padding: 0.5rem;
   font-weight: bold;
+  font-size: 2rem;
   background-color: slategrey;
-  color: aqua;
+  color: whitesmoke;
   border-radius: 5%;
   letter-spacing: 0.5rem;
 }
 button {
-  width: 30%;
+  width: 20%;
   height: 2.5rem;
   margin-top: 2rem;
   background-color: tomato;
-  color: aqua;
+  color: white;
   font-weight: bold;
   border-radius: 5%;
 }
